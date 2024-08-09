@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2024\\Fundamentos\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFD837D-5127-42C4-A5C0-6D50ABD6517C}|Proyecto.vcxproj|D:\\Visual Studio 2024\\Fundamentos\\Proyecto\\Proyecto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DFD837D-5127-42C4-A5C0-6D50ABD6517C}|Proyecto.vcxproj|solutionrelative:Proyecto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto.cpp",
+              "DocumentMoniker": "D:\\Visual Studio 2024\\Fundamentos\\Proyecto\\Proyecto.cpp",
+              "RelativeDocumentMoniker": "Proyecto.cpp",
+              "ToolTip": "D:\\Visual Studio 2024\\Fundamentos\\Proyecto\\Proyecto.cpp",
+              "RelativeToolTip": "Proyecto.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T01:20:08.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
